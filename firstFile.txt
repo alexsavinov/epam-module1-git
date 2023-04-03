@@ -2,8 +2,8 @@ line0_modified
 line1_modified
 line2_modified
 line3_modified
-line4
-line5
+line4_modified_new
+line5_modified_new
 line6
 line7
 line8
